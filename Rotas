@@ -1,0 +1,30 @@
+ -- Rotas Produtos   
+ 
+ Criar   - POST
+ http://localhost:8080/appvendas/novo-produto
+ 
+ Listar  - GET
+ http://localhost:8080/appvendas/lista-produtos
+ 
+ Alterar - PUT 
+ http://localhost:8080/appvendas/atualiza-produto/{id}
+ 
+ Remover - DELETE
+ http://localhost:8080/appvendas/remove-produto
+ 
+ 
+  -- Rotas Clientes   
+ 
+ Criar   - POST
+ http://localhost:8080/appvendas/novo-cliente
+ 
+ Listar  - GET
+ http://localhost:8080/appvendas/lista-clientes
+ 
+ Alterar - PUT 
+ http://localhost:8080/appvendas/atualiza-cliente/{id}
+ 
+ Remover - DELETE
+ http://localhost:8080/appvendas/remove-cliente
+ 
+ 
